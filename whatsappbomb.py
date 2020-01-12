@@ -18,6 +18,7 @@ target = '"SRP VIT Pune"'
 
 # Replace the below string with your own message
 string = 'You are hacked!!!!'
+#increase the count as many times you want to bomb the message
 count=int(10)
 
 x_arg = '//span[contains(@title,' + target + ')]'
