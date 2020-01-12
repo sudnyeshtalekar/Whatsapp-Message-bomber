@@ -17,7 +17,7 @@ Step 2: Download Firefox Webdrive(chromewebdriver will also work)
 
 Step 3:Unzip firefox webdriver(geckodriver file) and put it in home directory(I'm using the ubuntu OS).
 
-Step 4:replace your contacts name and give the neccesary count for the message
+Step 4:replace your contacts name and give the neccesary count for the message in the whatsappbomb.py file
 
 Step 5:run the python script(whatsappbomb.py)
 
