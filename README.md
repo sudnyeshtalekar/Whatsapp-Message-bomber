@@ -30,13 +30,15 @@ justsud@root:~$ python3 whatsappbomb.py
 ### How to on developer option in Safari
 
 Step 1. Open safari. 
+
 Step 2. ⌘ + , (Opening safari preference)
+
 Step 3. Go to Advanced tab and select show developer menu.
 
 <table>
 <tr>
 <td>
-<img src="https://github.com/pateldevang/Whatsapp-Message-bomber/blob/master/Screenshots/Developer-Menu.png" width="300">
+<img src="https://github.com/pateldevang/Whatsapp-Message-bomber/blob/master/Screenshots/Developer-Menu.png" width="400">
 </td>
   </tr>
   </table>
