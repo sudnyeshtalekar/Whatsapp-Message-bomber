@@ -4,12 +4,12 @@ A fun project- bomb any message to your whatsapp contact
 This is done using python selenium
 Requirements:
   i) Selenium
-  ii) Chrome webdriver
+  ii) Chrome webdriver or Safari webdriver 
   iii) Whatsapp Account
 
 Step 1: Install Selenium
 
-justsud@root:~$ pip3 install selenium
+justsud@root:~$ **pip3 install selenium**
 
 Step 2: Download Firefox Webdrive(chromewebdriver will also work)
 
@@ -21,6 +21,39 @@ Step 4:replace your contacts name and give the neccesary count for the message i
 
 Step 5:run the python script(whatsappbomb.py)
 
-justsud@root:~$ python3 whatsappbomb.py
+justsud@root:~$ **python3 whatsappbomb.py**
 
 
+
+## For macOS use Safari webdriver which is already inbuilt.
+
+### How to on developer option in Safari
+
+Step 1: Open safari. 
+
+Step 2:  **"⌘ + ,"** (Opening safari preference)
+
+Step 3: Go to Advanced tab and select show developer menu.
+
+<table>
+<tr>
+<td>
+<img src="https://github.com/pateldevang/Whatsapp-Message-bomber/blob/master/Screenshots/Developer-Menu.png" width="400">
+</td>
+  </tr>
+  </table>
+
+
+
+## How to Enable web driver in safari
+
+Step 1: Using developer menu click on "**Allow Remote Automation**"
+
+
+<table>
+<tr>
+<td>
+<img src="https://github.com/pateldevang/Whatsapp-Message-bomber/blob/master/Screenshots/Allow.png" width="400">
+</td>
+  </tr>
+  </table>
